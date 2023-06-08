@@ -25,7 +25,7 @@ It can be installed on your computer using the install button on the browser and
 
 ## Deployed Heroku link
 
-https://boiling-anchorage-52650.herokuapp.com/  
+https://boiling-anchorage-52650.herokuapp.com/ 
 
 ## Acknowledgements
 
